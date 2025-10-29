@@ -29,10 +29,9 @@ My work bridges the gap between **theoretical mechanics** and **practical applic
 
 ## 🧠 Research & Interests
 
-- Finite Element Analysis (FEA)  
-- Multi-physics simulation  
-- Computational fluid dynamics (CFD)  
-- Machine learning in engineering  
+- Numerical Analysis (FEA, CFD, MD)  
+- Multi-physics simulation   
+- AI in engineering  
 - Optimization and automation algorithms  
 - Scientific software design and performance engineering  
 
@@ -43,7 +42,7 @@ My work bridges the gap between **theoretical mechanics** and **practical applic
 Outside of research and engineering, I enjoy a diverse set of hobbies that balance analytical precision with creativity and motion:
 
 - 🐎 **Horseback riding**  
-- 🎯 **Sport shooting**  
+- 🎯 **Poker**  
 - 💃 **Hip-hop dancing**
 
 These activities allow me to explore balance, discipline, and rhythm — qualities that also inspire my professional work.

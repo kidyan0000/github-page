@@ -41,9 +41,9 @@ My work bridges the gap between **theoretical mechanics** and **practical applic
 
 Outside of research and engineering, I enjoy a diverse set of hobbies that balance analytical precision with creativity and motion:
 
-- 🐎 **Horseback riding**  
+- 🏀 **Basketball**  
+- 💃 **Hip-hop dancing**  
 - 🎯 **Poker**  
-- 💃 **Hip-hop dancing**
 
 These activities allow me to explore balance, discipline, and rhythm — qualities that also inspire my professional work.
 

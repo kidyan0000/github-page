@@ -9,7 +9,7 @@ This site is a reflection of my academic journey, research experience, and perso
 
 I am a **mechanical engineer and researcher** with a strong background in **computational mechanics**, **numerical simulation**, and **software development**.
 
-I was part of the **International Research Training Group**, where I had the privilege of being supervised by **Prof. Dr.-Ing. Ralf Müller** at the *Technical University of Darmstadt* and **Distinguished Professor Bahram Ravani** at the *University of California, Davis*. Through this program, I earned my **doctor in Engineering**, specializing in multi-physics and simulation technologies.
+I was part of the **International Research Training Group**, where I had the privilege of being supervised by **Prof. Dr.-Ing. Ralf Müller** at the *Technical University of Darmstadt* and **Distinguished Professor Bahram Ravani** at the *University of California, Davis*. Through this program, I earned my **Doctor of Engineering**, specializing in multi-physics and simulation technologies.
 
 During my time as a **Simulation Engineer**, I worked across several domains, including:
 

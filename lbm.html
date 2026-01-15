@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial=scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <title>IGA</title>
+</head>
+<section class="introduction">
+    <nav>
+        <h1><center><em>Lattice Boltzmann</em> Method</center></h1>
+    </nav>
+      <section class="introduction">
+          <p>
+            The <em>Lattice Boltzmann</em> Method can be interpreted as an alternative numerical approach for solving partial differential equations.
+            The main idea behind the Lattice Boltzmann Method is to bridge the gap between the microscale and the macroscale.
+            To achieve this, the Lattice Boltzmann Equation is separated into two steps: collision and streaming.
+            In this work, the existing Lattice Boltzmann Method for the two-dimensional wave equation is extended to more general plane strain problems.</p>
+        </section>
+      <br>
+    </nav>
+    </section>
+<body>
+    <figure>
+        <center><img
+        src="images/lbm.png"
+        width="600" 
+        height=150"
+        alt="lbm"
+        class="introduction-image"
+        />
+        <figcaption>Fig. 1: The collision and streaming step of the lattice Boltzmann method is demonstrated with five lattice points: 
+          a) The center lattice point has initially five distribution functions, whose summation is the macroscopic dependent variable (such as temperature, species, momentum, etc.); 
+          b) The equilibrium function of this lattice point is calculated; 
+          c) The collision process is applied for every distribution function; 
+          d) The post-collision distribution function is used to transfer to its neighbors.
+        </figcaption>
+        </center>
+    </figure>
+  <nav>
+    <dd class="clear"></dd>
+    <h2>Publications</h2>
+     <p>[1] A. Schlüter, S. Yan, T. Reinirkens, C. Kuhn and R. Müller, “Lattice Boltzmann Simulation of Plane Strain”, 
+      PAMM 20 (1), e202000119, 2020</p>
+     <p>[2] A. Schlüter, H. Müller, S. Yan and R. Müller, "A Lattice Boltzmann method for elastic solids under plane strain deformation", 
+      Advances and Challenges in Computational Mechanics, 449, 2026</p>
+  </nav>
+  <!--COMMENT-->
+    <a href="index.html" class="footer">Home</a>
+</body>
